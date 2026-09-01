@@ -1,0 +1,7 @@
+"CFBundleDisplayName" = "Chronos Lens";
+"NSCameraUsageDescription" = "Capture photos and videos with watermarks. All content stays on your device.";
+"NSMicrophoneUsageDescription" = "Record audio while filming so your videos feel complete.";
+"NSLocationWhenInUseUsageDescription" = "Use your location to show place, weather, and temperature on watermarks.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Use your location to show place, weather, and temperature on watermarks.";
+"NSPhotoLibraryUsageDescription" = "Read metadata from existing photos and videos to add watermarks.";
+"NSPhotoLibraryAddUsageDescription" = "Save watermarked photos and videos to your library.";

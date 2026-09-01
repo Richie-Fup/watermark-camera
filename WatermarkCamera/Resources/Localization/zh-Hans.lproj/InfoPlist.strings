@@ -1,0 +1,7 @@
+"CFBundleDisplayName" = "时隅相机";
+"NSCameraUsageDescription" = "拍摄带水印的照片和视频，所有内容仅保存在您的设备中。";
+"NSMicrophoneUsageDescription" = "录制视频时同步收音，使视频更加生动完整。";
+"NSLocationWhenInUseUsageDescription" = "获取当前位置以在水印中显示拍摄地点、天气和气温信息。";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "获取当前位置以在水印中显示拍摄地点、天气和气温信息。";
+"NSPhotoLibraryUsageDescription" = "读取相册中已有照片和视频的元数据，为历史内容补加水印。";
+"NSPhotoLibraryAddUsageDescription" = "将添加水印后的照片和视频保存到您的相册。";

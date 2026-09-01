@@ -1,0 +1,118 @@
+/* Tabs */
+"Capture" = "拍摄";
+"Album Watermark" = "相册补水印";
+"Templates" = "模板";
+"Settings" = "设置";
+
+/* Camera */
+"Processing…" = "处理中…";
+"Camera Access Required" = "需要相机权限";
+"Please enable camera access in Settings, then return." = "请在“设置”中开启相机权限后返回。";
+"Open Settings" = "打开设置";
+"Saved to Photos" = "已保存到相册";
+"Capture failed: %@" = "拍摄失败：%@";
+"Recording failed: %@" = "录制启动失败：%@";
+"Video saved to Photos" = "视频已保存到相册";
+"Video processing failed: %@" = "视频处理失败：%@";
+
+/* Library */
+"Import Photos or Videos" = "导入照片或视频";
+"Choose existing photos or videos from your library. We’ll read their time and location to add a watermark." = "从相册选择已有的照片/视频，读取其时间与位置并补加水印。";
+"Select Media" = "选择媒体";
+"Video" = "视频";
+"Photo" = "照片";
+
+/* Editor */
+"Add Watermark" = "补加水印";
+"Watermark will be applied when you save" = "视频将于保存时合成水印";
+"No location — tap to pick on map" = "无位置信息，点此手动选点";
+"Save to Photos" = "保存到相册";
+"Save failed: %@" = "保存失败：%@";
+"Choose Location" = "选择地点";
+"Cancel" = "取消";
+"Done" = "确定";
+
+/* Settings */
+"Watermark Preferences" = "水印偏好";
+"Temperature Unit" = "气温单位";
+"Celsius °C" = "摄氏度 °C";
+"Fahrenheit °F" = "华氏度 °F";
+"Apple Weather" = "Apple 天气";
+"Legal" = "法律声明";
+"Weather data is provided by Apple Weather via WeatherKit. It is only used locally to generate watermarks when you capture, and is never uploaded to third-party servers." = "天气数据来源 Apple Weather。当前天气使用 WeatherKit 服务获取，仅在您拍摄时用于生成水印，不会上传至第三方服务器。";
+"Weather Data" = "天气数据";
+"About" = "关于";
+"Version" = "版本";
+"All location and weather data is used only on-device to generate watermarks and is never uploaded to any third-party server." = "所有位置与天气数据仅在本地用于生成水印，不会上传到任何第三方服务器。";
+
+/* Templates */
+"Watermark Templates" = "水印模板";
+"Delete" = "删除";
+"Edit" = "编辑";
+"Time" = "时间";
+"Weekday" = "星期";
+"Place" = "地点";
+"Weather" = "天气";
+"Temperature" = "气温";
+"New Template" = "新模板";
+"Today · Full Info" = "今日 · 全信息";
+"Minimal · Time & Place" = "简约 · 仅时间地点";
+"Weather · Check-in" = "天气 · 打卡";
+"Shanghai · Pudong" = "上海市·浦东新区";
+"Cloudy" = "多云";
+"Preview" = "预览";
+"Name" = "名称";
+"Template Name" = "模板名称";
+"Visible Fields" = "显示字段";
+"Position" = "位置";
+"Watermark Position" = "水印位置";
+"Style" = "样式";
+"Text Color" = "文字颜色";
+"Font size: %lld" = "字号：%lld";
+"Opacity: %lld%%" = "不透明度：%lld%%";
+"Background Style" = "背景样式";
+"Date Format" = "时间格式";
+"Format" = "格式";
+"Edit Template" = "编辑模板";
+
+/* Positions */
+"Top Left" = "左上";
+"Top Center" = "上中";
+"Top Right" = "右上";
+"Middle Left" = "左中";
+"Center" = "居中";
+"Middle Right" = "右中";
+"Bottom Left" = "左下";
+"Bottom Center" = "下中";
+"Bottom Right" = "右下";
+
+/* Background styles */
+"None" = "无";
+"Translucent Bar" = "半透明条";
+"Shadow" = "阴影";
+
+/* Weather conditions */
+"Clear" = "晴";
+"Overcast" = "阴";
+"Fog" = "雾";
+"Haze" = "霾";
+"Rain" = "雨";
+"Heavy Rain" = "大雨";
+"Snow" = "雪";
+"Heavy Snow" = "大雪";
+"Sleet" = "雨夹雪";
+"Thunderstorm" = "雷雨";
+"Windy" = "有风";
+
+/* Errors */
+"Unknown error" = "未知错误";
+
+/* Contact / Developer */
+"Developer" = "开发者";
+"EVOXIA builds premium software, AI applications, and end-to-end digital solutions." = "EVOXIA 专注高端软件开发、AI 应用与端到端数字化解决方案。";
+"Visit Website" = "访问官网";
+
+/* Legal */
+"Legal" = "法律信息";
+"Privacy Policy" = "隐私政策";
+"Terms of Use" = "用户协议";

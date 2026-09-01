@@ -1,0 +1,118 @@
+/* Tabs */
+"Capture" = "Capture";
+"Album Watermark" = "Album Watermark";
+"Templates" = "Templates";
+"Settings" = "Settings";
+
+/* Camera */
+"Processing…" = "Processing…";
+"Camera Access Required" = "Camera Access Required";
+"Please enable camera access in Settings, then return." = "Please enable camera access in Settings, then return.";
+"Open Settings" = "Open Settings";
+"Saved to Photos" = "Saved to Photos";
+"Capture failed: %@" = "Capture failed: %@";
+"Recording failed: %@" = "Recording failed: %@";
+"Video saved to Photos" = "Video saved to Photos";
+"Video processing failed: %@" = "Video processing failed: %@";
+
+/* Library */
+"Import Photos or Videos" = "Import Photos or Videos";
+"Choose existing photos or videos from your library. We’ll read their time and location to add a watermark." = "Choose existing photos or videos from your library. We’ll read their time and location to add a watermark.";
+"Select Media" = "Select Media";
+"Video" = "Video";
+"Photo" = "Photo";
+
+/* Editor */
+"Add Watermark" = "Add Watermark";
+"Watermark will be applied when you save" = "Watermark will be applied when you save";
+"No location — tap to pick on map" = "No location — tap to pick on map";
+"Save to Photos" = "Save to Photos";
+"Save failed: %@" = "Save failed: %@";
+"Choose Location" = "Choose Location";
+"Cancel" = "Cancel";
+"Done" = "Done";
+
+/* Settings */
+"Watermark Preferences" = "Watermark Preferences";
+"Temperature Unit" = "Temperature Unit";
+"Celsius °C" = "Celsius °C";
+"Fahrenheit °F" = "Fahrenheit °F";
+"Apple Weather" = "Apple Weather";
+"Legal" = "Legal";
+"Weather data is provided by Apple Weather via WeatherKit. It is only used locally to generate watermarks when you capture, and is never uploaded to third-party servers." = "Weather data is provided by Apple Weather via WeatherKit. It is only used locally to generate watermarks when you capture, and is never uploaded to third-party servers.";
+"Weather Data" = "Weather Data";
+"About" = "About";
+"Version" = "Version";
+"All location and weather data is used only on-device to generate watermarks and is never uploaded to any third-party server." = "All location and weather data is used only on-device to generate watermarks and is never uploaded to any third-party server.";
+
+/* Templates */
+"Watermark Templates" = "Watermark Templates";
+"Delete" = "Delete";
+"Edit" = "Edit";
+"Time" = "Time";
+"Weekday" = "Weekday";
+"Place" = "Place";
+"Weather" = "Weather";
+"Temperature" = "Temperature";
+"New Template" = "New Template";
+"Today · Full Info" = "Today · Full Info";
+"Minimal · Time & Place" = "Minimal · Time & Place";
+"Weather · Check-in" = "Weather · Check-in";
+"Shanghai · Pudong" = "Shanghai · Pudong";
+"Cloudy" = "Cloudy";
+"Preview" = "Preview";
+"Name" = "Name";
+"Template Name" = "Template Name";
+"Visible Fields" = "Visible Fields";
+"Position" = "Position";
+"Watermark Position" = "Watermark Position";
+"Style" = "Style";
+"Text Color" = "Text Color";
+"Font size: %lld" = "Font size: %lld";
+"Opacity: %lld%%" = "Opacity: %lld%%";
+"Background Style" = "Background Style";
+"Date Format" = "Date Format";
+"Format" = "Format";
+"Edit Template" = "Edit Template";
+
+/* Positions */
+"Top Left" = "Top Left";
+"Top Center" = "Top Center";
+"Top Right" = "Top Right";
+"Middle Left" = "Middle Left";
+"Center" = "Center";
+"Middle Right" = "Middle Right";
+"Bottom Left" = "Bottom Left";
+"Bottom Center" = "Bottom Center";
+"Bottom Right" = "Bottom Right";
+
+/* Background styles */
+"None" = "None";
+"Translucent Bar" = "Translucent Bar";
+"Shadow" = "Shadow";
+
+/* Weather conditions */
+"Clear" = "Clear";
+"Overcast" = "Overcast";
+"Fog" = "Fog";
+"Haze" = "Haze";
+"Rain" = "Rain";
+"Heavy Rain" = "Heavy Rain";
+"Snow" = "Snow";
+"Heavy Snow" = "Heavy Snow";
+"Sleet" = "Sleet";
+"Thunderstorm" = "Thunderstorm";
+"Windy" = "Windy";
+
+/* Errors */
+"Unknown error" = "Unknown error";
+
+/* Contact / Developer */
+"Developer" = "Developer";
+"EVOXIA builds premium software, AI applications, and end-to-end digital solutions." = "EVOXIA builds premium software, AI applications, and end-to-end digital solutions.";
+"Visit Website" = "Visit Website";
+
+/* Legal */
+"Legal" = "Legal";
+"Privacy Policy" = "Privacy Policy";
+"Terms of Use" = "Terms of Use";

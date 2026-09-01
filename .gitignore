@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Xcode user-specific
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+
+# Build products
+build/
+DerivedData/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods / Carthage (not used, kept for safety)
+Pods/
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/screenshots/**/*.png
+
+# IDE
+.idea/
+
+# WorkBuddy project data
+.workbuddy/
+
+# Local-only (kept out of the published repo)
+docs/
+PLAN.md
+ARCHITECTURE.md
+
+# Misc
+*.log
