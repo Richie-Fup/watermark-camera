@@ -30,20 +30,27 @@ Native iOS watermark camera. Overlay time, place, weekday, weather, and temperat
 
 ## Requirements
 
-- macOS + **Xcode 15+**
+- macOS + **Xcode 15+** and [XcodeGen](https://github.com/yonaskolb/XcodeGen)
 - A device or simulator running **iOS 17.0+**
 - An Apple Developer account (WeatherKit requires the capability to be enabled)
 
 ## Getting Started
 
-1. Clone the repo and open `WatermarkCamera.xcodeproj` in Xcode.
-2. Enable **WeatherKit** for your App ID in [Apple Developer](https://developer.apple.com), and confirm the entitlement in Xcode Signing & Capabilities.
-3. Confirm the Bundle Identifier is `com.yeex.watermarkcamera` (select your own team under Signing).
-4. Run on a device or simulator.
+1. Clone the repo, then generate the Xcode project from `project.yml` with [XcodeGen](https://github.com/yonaskolb/XcodeGen):
+
+   ```bash
+   brew install xcodegen
+   xcodegen generate
+   ```
+
+2. Open the generated `WatermarkCamera.xcodeproj` in Xcode.
+3. Enable **WeatherKit** for your App ID in [Apple Developer](https://developer.apple.com), and confirm the entitlement in Xcode Signing & Capabilities.
+4. Confirm the Bundle Identifier is `com.yeex.watermarkcamera` (select your own team under Signing).
+5. Run on a device or simulator.
 
 > WeatherKit has call quotas. When offline, without coordinates, or outside the historical weather range, the weather and temperature fields are hidden automatically while the other fields render as usual.
 
-Optional: if you use [XcodeGen](https://github.com/yonaskolb/XcodeGen), you can regenerate the project from the root `project.yml` (the checked-in `.xcodeproj` is authoritative).
+The root `project.yml` is the single source of truth for the project — `WatermarkCamera.xcodeproj` is generated from it and is not checked in. Run `xcodegen generate` again whenever you change the project structure.
 
 ## Project Structure
 
